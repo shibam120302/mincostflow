@@ -24,6 +24,6 @@ The C API is described [here](c-api.md).
 
 The Python API is described [here](python-api.md).
 
-Author: Eduardo Quintana Miranda
+Author: Shibam Nath
 
 This work is funded by the [Summer of Bitcoin](www.summerofbitcoin.org) project 2023 edition.
